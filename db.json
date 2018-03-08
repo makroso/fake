@@ -1,12 +1,14 @@
 {
   "data" : [
     {
-       "gax":"1100510",
-        "result":"1"
+       "id": 1,
+       "gax": 1100510,
+        "result": 1
     },
     {
-       "gax":"1100510",
-       "result":"0"
+       "id": 2,
+       "gax": 1100510,
+       "result": 0
     }  
   ],
  "comments": [
